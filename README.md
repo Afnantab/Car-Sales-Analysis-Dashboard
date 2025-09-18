@@ -63,6 +63,3 @@ The dataset was **cleaned in Power Query** (handling nulls, formatting, splittin
 - **Calculated Measures** for income, average price, gender split  
 - **Splitting logic** for category-wise analysis  
 
----
-
-## 📂 Repository Structure  
